@@ -1,0 +1,58 @@
+title: pl6anet 
+description: Perl 6 RSS Feeds
+url: http://pl6anet.org/
+author:
+  name: Steve "itz" Mynott
+  email: steve.mynott (at)gmail.com
+entries: 50
+opml: /home/steve/perlanet/opml.xml
+cache_dir: /home/steve/perlanet/cache
+page:
+  file: /home/steve/perlanet/index.html
+  template: index.tt
+feed:
+  file: atom.xml
+  format: Atom
+feed:
+  file: rss.xml
+  format: RSS
+feeds:
+ -  url:  http://blogs.perl.org/users/pawel_bbkr_pabian/atom.xml
+    title: Pawel bbkr Pabian
+    web: http://blogs.perl.org/users/pawel_bbkr_pabian/atom.xml
+ -  url:  http://filip.sergot.pl/en/blog/perl6/index.atom
+    title: filip.sergot.pl
+    web: http://filip.sergot.pl/en/blog/perl6/index.atom
+ -  url:  http://brrt-to-the-future.blogspot.com/feeds/posts/default
+    title: brrt to the future
+    web: http://brrt-to-the-future.blogspot.com/feeds/posts/default
+ -  url:  http://blog.brentlaabs.com/feeds/posts/default/-/perl6
+    title: Irregular Expression
+    web: http://blog.brentlaabs.com/feeds/posts/default/-/perl6
+ -  url:  http://pmthium.com/category/perl6/feed/
+    title: Pmthium  perl6
+    web: http://pmthium.com/category/perl6/feed/
+ -  url:  http://perlgeek.de/blog-en/perl-6/index.rss
+    title: Perlgeek.de
+    web: http://perlgeek.de/blog-en/perl-6/index.rss
+ -  url:  http://rakudo.org/feed/
+    title: rakudo.org
+    web: http://rakudo.org/feed/
+ -  url:  https://p6weekly.wordpress.com/feed/
+    title: Weekly changes in and around Perl 6
+    web: https://p6weekly.wordpress.com/feed/
+ -  url:  http://perl6advent.wordpress.com/feed/
+    title: Perl 6 Advent Calendar
+    web: http://perl6advent.wordpress.com/feed/
+ -  url:  http://6guts.wordpress.com/feed/
+    title: 6guts
+    web: http://6guts.wordpress.com/feed/
+ -  url:  http://perl6maven.com/atom
+    title: Perl 6 Maven
+    web: http://perl6maven.com/atom
+ -  url:  http://www.nntp.perl.org/rss/perl.perl6.announce.rdf
+    title: perl.perl6.announce
+    web: http://www.nntp.perl.org/rss/perl.perl6.announce.rdf
+ -  url:  http://strangelyconsistent.org/blog/feed.atom
+    title: Strangely Consistent
+    web: http://strangelyconsistent.org/blog/feed.atom
