@@ -7,6 +7,7 @@
     <style>
         @import url("style.css");
     </style>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   </head>
   <body>
   <img align="left" hspace="8" text="camelia" src="200px-Camelia.svg.png"/>
