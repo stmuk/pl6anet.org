@@ -29,9 +29,9 @@ feeds:
  -  url:  http://blog.brentlaabs.com/feeds/posts/default/-/perl6
     title: Irregular Expression
     web: http://blog.brentlaabs.com/feeds/posts/default/-/perl6
- -  url:  http://pmthium.com/category/perl6/feed/
-    title: Pmthium  perl6
-    web: http://pmthium.com/category/perl6/feed/
+ -  url:  http://pmthium.com/feed/
+    title: Pmthium
+    web: http://pmthium.com/feed/
  -  url:  http://perlgeek.de/blog-en/perl-6/index.rss
     title: Perlgeek.de
     web: http://perlgeek.de/blog-en/perl-6/index.rss
@@ -44,9 +44,9 @@ feeds:
  -  url:  http://perl6advent.wordpress.com/feed/
     title: Perl 6 Advent Calendar
     web: http://perl6advent.wordpress.com/feed/
- -  url:  http://6guts.wordpress.com/feed/
+ -  url:  https://6guts.wordpress.com/feed/
     title: 6guts
-    web: http://6guts.wordpress.com/feed/
+    web: https://6guts.wordpress.com/feed/
  -  url:  http://perl6maven.com/atom
     title: Perl 6 Maven
     web: http://perl6maven.com/atom
@@ -56,3 +56,6 @@ feeds:
  -  url:  http://strangelyconsistent.org/blog/feed.atom
     title: Strangely Consistent
     web: http://strangelyconsistent.org/blog/feed.atom
+ -  url: http://stevemynott.blogspot.com/feeds/posts/default
+    title: Steve Mynott
+    web: http://stevemynott.blogspot.com/feeds/posts/default
