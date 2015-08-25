@@ -62,3 +62,6 @@ feeds:
  -  url: https://shimmeryfairy.wordpress.com/feed/
     title: ShimmerFairy
     web: https://shimmeryfairy.wordpress.com/feed/
+ -  url: http://ugexe.com/rss/
+    title: Death by Perl6
+    web: http://ugexe.com/rss/
