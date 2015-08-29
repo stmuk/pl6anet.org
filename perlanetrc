@@ -65,3 +65,6 @@ feeds:
  -  url: http://ugexe.com/rss/
     title: Death by Perl6
     web: http://ugexe.com/rss/
+ -  url: http://postcircumfix.com/feed/
+    title: smls
+    web: http://postcircumfix.com/feed/
