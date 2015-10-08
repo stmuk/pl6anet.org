@@ -68,3 +68,6 @@ feeds:
  -  url: http://postcircumfix.com/feed/
     title: smls
     web: http://postcircumfix.com/feed/
+ -  url: http://jdv79.blogspot.com/feeds/posts/default/-/Perl6
+    title: jdv
+    web: http://jdv79.blogspot.com/feeds/posts/default/-/Perl6
