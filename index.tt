@@ -14,6 +14,21 @@
     <h1>[% feed.title %]</h1>
     <p>[% feed.description %]</p>
     <br/><br/>
+    <div>
+        <script>
+  (function() {
+    var cx = '004466830701554036267:yflzditg_ra';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search>
+    </div>
 [% FOREACH entry IN feed.entries %]
     <h2><a href="[% entry.link | url | html %]">[% entry.title | html %]</h2></a>
 [% IF entry.author OR entry.issued %]
