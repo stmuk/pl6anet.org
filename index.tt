@@ -13,6 +13,7 @@
   <img align="left" hspace="8" text="camelia" src="200px-Camelia.svg.png"/>
     <h1>[% feed.title %]</h1>
     <p>[% feed.description %]</p>
+    <address>[% feed.author | html %] [% feed.email | html %] / [% feed.modified | html %]</address>
     <br/><br/>
     <div>
         <script>
@@ -38,6 +39,5 @@
 [% END %]
 [% END %]
     <hr />
-    <address>[% feed.author | html %] / [% feed.modified | html %]</address>
   </body>
 </html>
