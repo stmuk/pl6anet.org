@@ -23,9 +23,9 @@ feeds:
  -  url:  http://filip.sergot.pl/en/blog/perl6/index.atom
     title: filip.sergot.pl
     web: http://filip.sergot.pl/en/blog/perl6/index.atom
- -  url:  http://brrt-to-the-future.blogspot.com/feeds/posts/default
+ -  url:  http://brrt-to-the-future.blogspot.com/feeds/posts/default/-/perl6
     title: brrt to the future
-    web: http://brrt-to-the-future.blogspot.com/feeds/posts/default
+    web: http://brrt-to-the-future.blogspot.com/feeds/posts/default/-/perl6
  -  url:  http://blog.brentlaabs.com/feeds/posts/default/-/perl6
     title: Irregular Expression
     web: http://blog.brentlaabs.com/feeds/posts/default/-/perl6
