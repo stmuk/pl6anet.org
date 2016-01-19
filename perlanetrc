@@ -2,7 +2,7 @@ title: pl6anet
 description: Perl 6 RSS Feeds
 url: http://pl6anet.org/
 author:
-  name: Steve "itz" Mynott
+  name: Steve Mynott (Freenode: stmuk)
   email: steve.mynott (at)gmail.com
 entries: 50
 opml: /home/steve/perlanet/opml.xml
