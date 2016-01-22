@@ -74,3 +74,6 @@ feeds:
     url: http://independentcomputing.biz/tag/perl6/rss/
     title: Independent Computing
     web: http://independentcomputing.biz/tag/perl6/rss/
+ -  url: http://blogs.perl.org/users/zoffix_znet/atom.xml
+    title: Zoffix Znet
+    web: http://blogs.perl.org/users/zoffix_znet/atom.xml
