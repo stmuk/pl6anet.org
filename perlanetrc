@@ -59,9 +59,6 @@ feeds:
  -  url: http://stevemynott.blogspot.com/feeds/posts/default
     title: Steve Mynott
     web: http://stevemynott.blogspot.com/feeds/posts/default
- -  url: https://shimmeryfairy.wordpress.com/feed/
-    title: ShimmerFairy
-    web: https://shimmeryfairy.wordpress.com/feed/
  -  url: http://ugexe.com/rss/
     title: Death by Perl6
     web: http://ugexe.com/rss/
@@ -77,3 +74,6 @@ feeds:
  -  url: http://blogs.perl.org/users/zoffix_znet/atom.xml
     title: Zoffix Znet
     web: http://blogs.perl.org/users/zoffix_znet/atom.xml
+ -  url: http://hoelz.ro/perl6.rss
+    title: hoelzro
+    web: http://hoelz.ro/
