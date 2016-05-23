@@ -68,7 +68,7 @@ feeds:
  -  url: http://jdv79.blogspot.com/feeds/posts/default/-/Perl6
     title: jdv
     web: http://jdv79.blogspot.com/feeds/posts/default/-/Perl6
-    url: http://independentcomputing.biz/tag/perl6/rss/
+ -  url: http://independentcomputing.biz/tag/perl6/rss/
     title: Independent Computing
     web: http://independentcomputing.biz/tag/perl6/rss/
  -  url: http://perl6.party/feed/
