@@ -77,3 +77,6 @@ feeds:
  -  url: http://hoelz.ro/perl6.rss
     title: hoelzro
     web: http://hoelz.ro/
+ -  url: https://gfldex.wordpress.com/feed/
+    title: gfldex
+    web: https://gfldex.wordpress.com/
