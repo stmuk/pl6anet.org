@@ -80,6 +80,6 @@ feeds:
  -  url: https://gfldex.wordpress.com/feed/
     title: gfldex
     web: https://gfldex.wordpress.com/
-    title: samcv
+ -  title: samcv
     web: https://cry.nu
     url: https://cry.nu/feed.xml
