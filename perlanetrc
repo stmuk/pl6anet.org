@@ -32,18 +32,18 @@ feeds:
  -  url:  http://pmthium.com/feed/
     title: Pmthium
     web: http://pmthium.com/feed/
- -  url:  http://perlgeek.de/blog-en/perl-6/index.rss
+ -  url: https://perlgeek.de/blog-en.cgi/perl-6/index.rss
     title: Perlgeek.de
-    web: http://perlgeek.de/blog-en/perl-6/index.rss
+    web: https://perlgeek.de/blog-en.cgi
  -  url:  http://rakudo.org/feed/
     title: rakudo.org
     web: http://rakudo.org/feed/
  -  url:  https://p6weekly.wordpress.com/feed/
     title: Weekly changes in and around Perl 6
     web: https://p6weekly.wordpress.com/feed/
- -  url:  http://perl6advent.wordpress.com/feed/
+ -  url:  https://perl6advent.wordpress.com/feed/
     title: Perl 6 Advent Calendar
-    web: http://perl6advent.wordpress.com/feed/
+    web: https://perl6advent.wordpress.com/feed/
  -  url:  https://6guts.wordpress.com/feed/
     title: 6guts
     web: https://6guts.wordpress.com/feed/
@@ -62,9 +62,6 @@ feeds:
  -  url: http://ugexe.com/rss/
     title: Death by Perl6
     web: http://ugexe.com/rss/
- -  url: http://postcircumfix.com/feed/
-    title: smls
-    web: http://postcircumfix.com/feed/
  -  url: http://jdv79.blogspot.com/feeds/posts/default/-/Perl6
     title: jdv
     web: http://jdv79.blogspot.com/feeds/posts/default/-/Perl6
@@ -80,6 +77,9 @@ feeds:
  -  url: https://gfldex.wordpress.com/feed/
     title: gfldex
     web: https://gfldex.wordpress.com/
- -  title: samcv
+ -  url: https://cry.nu/feed.xml
+    title: samcv
     web: https://cry.nu
-    url: https://cry.nu/feed.xml
+ -  url: http://blogs.perl.org/users/steve_mynott/atom.xml
+    title: Steve Mynott
+    web: http://blogs.perl.org/users/steve_mynott/atom.xml 
