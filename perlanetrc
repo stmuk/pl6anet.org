@@ -83,3 +83,6 @@ feeds:
  -  url: http://blogs.perl.org/users/steve_mynott/atom.xml
     title: Steve Mynott
     web: http://blogs.perl.org/users/steve_mynott/atom.xml 
+ -  url: https://stmuk.wordpress.com/feed/
+    title: stmuk
+    web: https://stmuk.wordpress.com/
