@@ -86,3 +86,6 @@ feeds:
  -  url: https://stmuk.wordpress.com/feed/
     title: stmuk
     web: https://stmuk.wordpress.com/
+ -  url: https://p6steve.wordpress.com/feed/
+    title: p6steve
+    web: https://p6steve.wordpress.com/
