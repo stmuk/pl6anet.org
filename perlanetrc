@@ -89,3 +89,6 @@ feeds:
  -  url: https://p6steve.wordpress.com/feed/
     title: p6steve
     web: https://p6steve.wordpress.com/
+ -  url: https://perl6.online/feed/
+    title: Perl 6 Iniside Out
+    web: https://perl6.online/
