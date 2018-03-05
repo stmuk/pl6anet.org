@@ -92,3 +92,6 @@ feeds:
  -  url: https://perl6.online/feed/
     title: Perl 6 Inside Out
     web: https://perl6.online/
+ -  url: https://wakelift.de/rss/
+    title: my Timotimo \this
+    web: https://wakelift.de/
